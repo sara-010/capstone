@@ -40,7 +40,7 @@ run every cell top to bottom (**Runtime → Run all**). The first cell installs
 every required package (`statsmodels`, `lightgbm`, `prophet`, `scikit-learn`);
 no other setup is needed.
 
-(https://colab.research.google.com/assets/colab-badge.svg) (https://colab.research.google.com/github/sara-010/capstone/blob/main/Capstone_Backtested_Forecasting_Report.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sara-010/capstone/blob/main/Capstone_Backtested_Forecasting_Report.ipynb)
 
 
 
