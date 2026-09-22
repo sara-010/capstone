@@ -4,8 +4,8 @@
 
 Time Series Forecasting for AI Systems — Cohort 20 Sept – 22 Sept 2026
 **Author:** Sarah Aldhawyan
-
-## Project Idea
+[
+](https://github.com/SDAIAAcademy)
 
 This project takes a single time series from raw data to a validated,
 uncertainty-aware forecast, following the same pattern used throughout the
