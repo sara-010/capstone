@@ -59,5 +59,4 @@ no other setup is needed.
 ## Acknowledgements
 
 Built on the course infrastructure and conventions from
-`MohammadYusif/time-series-forecasting-ai-systems` (SDAIA Academy) [
-](https://github.com/SDAIAAcademy)
+`MohammadYusif/time-series-forecasting-ai-systems` (SDAIA Academy) https://github.com/SDAIAAcademy
